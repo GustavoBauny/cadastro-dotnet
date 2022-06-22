@@ -1,0 +1,15 @@
+/home/gustavo/Workspace/C#/cadastro-dotnet/bin/Debug/net6.0/cadastro-dotnet
+/home/gustavo/Workspace/C#/cadastro-dotnet/bin/Debug/net6.0/cadastro-dotnet.deps.json
+/home/gustavo/Workspace/C#/cadastro-dotnet/bin/Debug/net6.0/cadastro-dotnet.runtimeconfig.json
+/home/gustavo/Workspace/C#/cadastro-dotnet/bin/Debug/net6.0/cadastro-dotnet.dll
+/home/gustavo/Workspace/C#/cadastro-dotnet/bin/Debug/net6.0/cadastro-dotnet.pdb
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/cadastro-dotnet.csproj.AssemblyReference.cache
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/cadastro-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/cadastro-dotnet.AssemblyInfoInputs.cache
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/cadastro-dotnet.AssemblyInfo.cs
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/cadastro-dotnet.csproj.CoreCompileInputs.cache
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/cadastro-dotnet.dll
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/refint/cadastro-dotnet.dll
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/cadastro-dotnet.pdb
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/cadastro-dotnet.genruntimeconfig.cache
+/home/gustavo/Workspace/C#/cadastro-dotnet/obj/Debug/net6.0/ref/cadastro-dotnet.dll
